@@ -1,2 +1,2 @@
 # ironhack-paris-ptda
-All code for the ironhack part-time data bootcamp starting June 2019
+In class notebooks for the ironhack paris part-time data bootcamp
